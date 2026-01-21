@@ -1,6 +1,6 @@
 # CaldiaWorks
 
-**AI System Development x Creative Production**
+**System Development x Creative Production**
 
 We exemplify the fusion of advanced logic and artistic creativity.
 Based on our "Deep Black & Neon" design philosophy, we build solid systems with vibrant, innovative interfaces.
